@@ -1,0 +1,19 @@
+name: bbs-forecasting
+channels:
+  - r
+dependencies:
+  - r
+  - r-dplyr
+  - r-forecast
+  - r-DBI
+  - r-devtools
+  - r-ggplot2
+  - r-hmisc
+  - r-tidyr
+  - r-mgcv
+  - r-sp
+  - r-raster
+  - r-maptools
+  - r-doparallel
+  - r-stringr
+  - gdal
